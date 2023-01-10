@@ -1,0 +1,22 @@
+[
+{
+  "directory": "D:/p3/SLAM_system/SLAM/build",
+  "command": "D:\\ming\\mingw64posix\\bin\\g++.exe  @CMakeFiles/test.dir/includes_CXX.rsp -g -o CMakeFiles\\test.dir\\src\\agent.cpp.obj -c D:\\p3\\SLAM_system\\SLAM\\src\\agent.cpp",
+  "file": "D:/p3/SLAM_system/SLAM/src/agent.cpp"
+},
+{
+  "directory": "D:/p3/SLAM_system/SLAM/build",
+  "command": "D:\\ming\\mingw64posix\\bin\\g++.exe  @CMakeFiles/test.dir/includes_CXX.rsp -g -o CMakeFiles\\test.dir\\src\\cloud.cpp.obj -c D:\\p3\\SLAM_system\\SLAM\\src\\cloud.cpp",
+  "file": "D:/p3/SLAM_system/SLAM/src/cloud.cpp"
+},
+{
+  "directory": "D:/p3/SLAM_system/SLAM/build",
+  "command": "D:\\ming\\mingw64posix\\bin\\g++.exe  @CMakeFiles/test.dir/includes_CXX.rsp -g -o CMakeFiles\\test.dir\\src\\main.cpp.obj -c D:\\p3\\SLAM_system\\SLAM\\src\\main.cpp",
+  "file": "D:/p3/SLAM_system/SLAM/src/main.cpp"
+},
+{
+  "directory": "D:/p3/SLAM_system/SLAM/build",
+  "command": "D:\\ming\\mingw64posix\\bin\\g++.exe  @CMakeFiles/test.dir/includes_CXX.rsp -g -o CMakeFiles\\test.dir\\src\\utils.cpp.obj -c D:\\p3\\SLAM_system\\SLAM\\src\\utils.cpp",
+  "file": "D:/p3/SLAM_system/SLAM/src/utils.cpp"
+}
+]
