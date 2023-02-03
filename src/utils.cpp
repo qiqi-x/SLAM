@@ -4,6 +4,16 @@
 
 using namespace std;
 
+
+class KeyPointExtractModel {
+    KeyPointExtractModel(const string& model_path) {
+        this->model_path = model_path;
+    }
+
+private:
+    const string model_path;
+}
+
 void agent_color(){
 
 };
